@@ -47,5 +47,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedro-henrique-0b345814b)](https://linkedin.com/in/pedro-henrique-0b345814b)
-[![Gmail Badge](https://img.shields.io/badge/-vici_pedro@live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vici_pedro@live.com)](mailto:vici_pedro@live.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedroimpact@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vici_pedro@live.com)](mailto:pedroimpact@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/PedroPHP?label=follow&style=social)](https://github.com/PedroPHP)
